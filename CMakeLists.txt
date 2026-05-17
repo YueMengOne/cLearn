@@ -1,4 +1,7 @@
+# 指定CMake的最低版本要求
 cmake_minimum_required(VERSION 4.2)
+
+# 项目使用的编程语言
 project(CHomework C)
 
 # 设置 C C++ 标准
