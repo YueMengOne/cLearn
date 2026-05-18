@@ -11,7 +11,7 @@
 // 函数原型
 void starbar(void);
 
-int mian(void){
+int main(void){
     starbar();
     printf("%s\n", NAME);
     printf("%s\n", ADDRESS);
